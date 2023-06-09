@@ -8,7 +8,6 @@ import HW01.HW01_04_xX_chisla.InpSngltone;
 
 
 
-
 public class GbJavaApiSemHW03_calc {
     static InpSngltone inp1 = InpSngltone.getInstance();
     static Calculator calc = Calculator.instance.get();
@@ -17,9 +16,6 @@ public class GbJavaApiSemHW03_calc {
 
     public static void main(String[] args) {
         zadanye_03_calc();
-//          inp1= new InpSngltone().getInstance();
-
-
     }
 
 
@@ -42,7 +38,6 @@ public class GbJavaApiSemHW03_calc {
                 String sign = str2[1];
                 int y=666;
                 if (str2.length > 2) {
-
                     y = Integer.valueOf(str2[2]);
                 }
 
@@ -68,7 +63,6 @@ public class GbJavaApiSemHW03_calc {
                     int pow = calc.pow.apply(x);
                     calc.println_int.accept(pow);
                 }
-
 
             }
 

@@ -34,7 +34,6 @@ public class Calculator {
 
     Consumer<Integer> println_int = System.out::println;    
     Consumer<Double> println_dbl = System.out::println;
-
     Consumer<Boolean> println2_bool = System.out::println;
 
 }

@@ -13,7 +13,7 @@ public class GbJavaApiSemHW04_xX_Chisla {
 
     public static void main(String[] args) {
 
-           //TODO НЕДОДЕЛАЛ- пока только  2? + ?7 = 82
+           //TOD0s НЕДОДЕЛАЛ- пока только  2? + ?7 = 82
            
         zadanye_04_qCyphers_02_02();
          inp1=    InpSngltone.getInstance();

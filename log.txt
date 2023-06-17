@@ -1,0 +1,22 @@
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+INFO: strt              arr [1, 3, 4, 2]
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+INFO: aftr node step 1  arr [1, 3, 2, 4]
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+INFO: aftr node step 2  arr [1, 2, 3, 4]
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+INFO: aftr node step 3  arr [1, 2, 3, 4]
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+INFO: aftr ROOT step 1  arr [1, 2, 3, 4]
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+INFO: aftr node step 1  arr [1, 2, 3, 4]
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+INFO: aftr node step 2  arr [1, 2, 3, 4]
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+INFO: aftr node step 3  arr [1, 2, 3, 4]
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+WARNING: stop iterate - basta -  already 1 free run 
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+WARNING: after stop iterate1
+июн. 17, 2023 9:30:40 AM HW02.GbJavaApiSemHW02 method_hw_2_logs_v2
+INFO: aftr ROOT step 2  arr [1, 2, 3, 4]

@@ -21,11 +21,11 @@ package   HW04;
 */
 
 
-import java.io.IOException;
+// import java.io.IOException;
 import java.util.*;
-import java.util.stream.Collectors;
+// import java.util.stream.Collectors;
 
-import static java.util.Arrays.stream;
+// import static java.util.Arrays.stream;
 
 public class GbJavaApiSemHW04 {
 
@@ -49,7 +49,7 @@ public class GbJavaApiSemHW04 {
         int chisl1 = 0;
         int chisl2 = 0;
 
-        int sum = 0;
+        // int sum = 0;
 //        Optional<Integer> result1=dq1.stream().reduce((x,y)->(x+y*10));
 //        System.out.println(result1);
 //

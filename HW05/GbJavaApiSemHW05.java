@@ -77,7 +77,7 @@ public class GbJavaApiSemHW05 {
     private static void outputAll() {
         if (tlfn_Book.size() > 0) {
             System.out.println("----------Вывод Всей Телефонной книги------------");
-            for (Map.Entry mp1KV : tlfn_Book.entrySet()) {
+            for (Map.Entry<String,ArrayList<String>> mp1KV : tlfn_Book.entrySet()) {
                 System.out.println("Контакт:\n" + mp1KV.getKey());
                 ArrayList<String> NmbrsList = tlfn_Book.get(mp1KV.getKey());
                 if (NmbrsList.size() == 0) {

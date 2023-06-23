@@ -20,8 +20,8 @@ package    HW03;
 
 import java.util.*;
 
-import static java.util.Collections.max;
-import static java.util.Collections.min;
+// import static java.util.Collections.max;
+// import static java.util.Collections.min;
 
 public class GbJavaApiSemHW03 {
 
